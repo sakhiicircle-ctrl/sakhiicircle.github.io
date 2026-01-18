@@ -1,0 +1,8 @@
+{
+  "name": "SakhiiCircle",
+  "description": "A warm, authoritative community-first platform for midlife women blending symptom data, AI insights, and expert care.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
